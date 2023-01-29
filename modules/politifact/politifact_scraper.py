@@ -1,6 +1,4 @@
 """
-@Gyrst - created in September 2022
-
 When running the politifact scraper make sure to:
 1) specify and check that the path for the destination directory is correct.
 2) Add a title descriptive of what has been fetched.

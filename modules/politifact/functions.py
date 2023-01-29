@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 
-""" @Gyrst September 2022
+"""
     Code below comprise helper-functions applied when scraping the data from politifact.
     
 """

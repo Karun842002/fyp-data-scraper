@@ -4,7 +4,6 @@ import json, os, pandas as pd
 #https://developers.google.com/fact-check/tools/api/reference/rest/v1alpha1/claims/search?apix_params=%7B%22languageCode%22%3A%22Python%22%2C%22maxAgeDays%22%3A900%2C%22pageSize%22%3A100%2C%22query%22%3A%22climate%20chnage%22%7D#request-body
 
 #requests.get('https://factchecktools.googleapis.com/v1alpha1/claims:search') #needs API KEY ETC!
-# @Gyrst
 
 
 #preprocessing the data into a csv file
