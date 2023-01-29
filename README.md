@@ -1,4 +1,4 @@
-#  The Epic PolitiFact-Scraper & Datasets
+#  PolitiFact-Scraper - FYP 2023
 
 This Repo comprise a Python web scraper designed to fetch fake checked claims from the fact-checking organization politifact.org. 
 
