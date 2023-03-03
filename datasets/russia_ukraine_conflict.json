@@ -1,0 +1,1566 @@
+{
+  "claims": [
+    {
+      "text": "The war in Ukraine is over",
+      "claimant": "Social media",
+      "claimDate": "2022-12-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2022/12/21/fact-check-russia-ukraine-war-continues-contrary-post/10927862002/",
+          "title": "Fact check: War in Ukraine continues, contrary to post",
+          "reviewDate": "2022-12-21T19:30:12Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Have over 150k Ukrainian troops been killed in Russia conflict?",
+      "claimant": "Russian Market",
+      "claimDate": "2023-02-10T09:08:52Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsweek",
+            "site": "newsweek.com"
+          },
+          "url": "https://www.newsweek.com/ukraine-russia-elon-muks-troop-deaths-war-1779496",
+          "title": "Fact Check: Have over 150K Ukraine Troops been killed in Russia ...",
+          "reviewDate": "2023-02-10T09:08:52Z",
+          "textualRating": "Unverified",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Ukrainian President Volodymyr Zelenskyy said the U.S. will have \"to send their sons and daughters\" to die for Ukraine.",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Snopes.com",
+            "site": "snopes.com"
+          },
+          "url": "https://www.snopes.com/fact-check/zelenskyy-us-sons-daughters-war-ukraine/",
+          "title": "Did Zelenskyy Say US Will Have To 'Send Their Sons and ...",
+          "reviewDate": "2023-03-01T12:16:16Z",
+          "textualRating": "Mixture",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "“The U.S. is the one who started the Ukraine crisis and the biggest factor fueling it…”",
+      "claimant": "Mao Ning",
+      "claimDate": "2023-02-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/fact-check-beijing-boosts-kremlin-disinfo-us-caused-war-in-ukraine/6946791.html",
+          "title": "Beijing Boosts Kremlin Disinformation That US Caused War in Ukraine",
+          "reviewDate": "2023-02-03T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Latest news report of the ‘Republic Bharat’ channel informing the possibility of a ‘Dirty Bomb’ attack in the ongoing Russia-Ukraine war",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/old-republic-bharat-news-report-shared-as-recent-news-on-the-russia-ukraine-conflict/",
+          "title": "Old ‘Republic Bharat’ news report shared as recent news on the ...",
+          "reviewDate": "2023-01-10T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video showing people dancing at a bar in Kyiv proves the war in Ukraine is fake",
+      "claimant": "Social media users",
+      "claimDate": "2022-09-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2022/09/21/fact-check-ukraine-war-real-despite-video-dancing-kyiv-bar/8004366001/",
+          "title": "Fact check: Ukraine war is real despite video of dancing at Kyiv bar",
+          "reviewDate": "2022-09-22T02:40:57Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "President Ferdinand Marcos Jr. is the only one in the Association of Southeast Asian Nations (ASEAN) to address the Russia-Ukraine war and the North Korea threat.",
+      "claimDate": "2022-11-22T04:23:36Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Rappler",
+            "site": "rappler.com"
+          },
+          "url": "https://www.rappler.com/newsbreak/fact-check/asean-countries-not-only-marcos-spoke-russia-ukraine-crisis/",
+          "title": "Several ASEAN leaders, not only Marcos, spoke up on Russia ...",
+          "reviewDate": "2022-11-22T04:23:36Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Did Zelensky say U.S. will send its kids to war for Ukraine?",
+      "claimant": "The Hodgetwins",
+      "claimDate": "2023-03-01T12:41:28Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsweek",
+            "site": "newsweek.com"
+          },
+          "url": "https://www.newsweek.com/zelensky-ukraine-us-russia-war-children-1784657",
+          "title": "Fact Check: Did Zelensky say U.S. will send its kids to war for Ukraine?",
+          "reviewDate": "2023-03-01T12:41:28Z",
+          "textualRating": "Misleading Material",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Does video show Ukraine drone dropping grenades on civilians?",
+      "claimant": "@ricwe123",
+      "claimDate": "2023-02-28T15:47:25Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsweek",
+            "site": "newsweek.com"
+          },
+          "url": "https://www.newsweek.com/fact-check-does-video-show-ukraine-drone-dropping-grenades-civilians-1784362",
+          "title": "Fact Check: Does Video Show Ukraine Drone Dropping Grenades ...",
+          "reviewDate": "2023-02-28T15:47:25Z",
+          "textualRating": "Unverified",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Fifty-five thousand Russian troops have lost their lives fighting in Ukraine.",
+      "claimant": "Gillian Keegan",
+      "claimDate": "2022-09-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Full Fact",
+            "site": "fullfact.org"
+          },
+          "url": "https://fullfact.org/news/ukraine-war-russian-casualties-keegan-wallace-heappey/",
+          "reviewDate": "2022-09-29T00:00:00Z",
+          "textualRating": "Although the nature of any armed conflict makes it impossible to obtain accurate statistics, there are good reasons to doubt this figure.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The war in Ukraine is “all over.”",
+      "claimant": "Facebook posts",
+      "claimDate": "2022-12-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/factchecks/2022/dec/13/facebook-posts/no-the-war-in-ukraine-isnt-over/",
+          "title": "No, the war in Ukraine isn’t over",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The events in Ukraine aren’t a clash between Moscow and Kyiv. It’s a military confrontation between NATO, above all the U.S. and Britain, and Russia.”",
+      "claimant": "Nikolay Patrushev",
+      "claimDate": "2023-01-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/fact-check-putin-aide-falsely-claims-russia-is-fighting-nato-not-ukraine/6912532.html",
+          "title": "Putin Aide Falsely Claims Russia is Fighting NATO, Not Ukraine",
+          "reviewDate": "2023-01-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Ukraine Has Taken Half of Territory Back Since Russia Invaded",
+      "claimant": "Twitter users",
+      "claimDate": "2022-11-08T14:13:08Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsweek",
+            "site": "newsweek.com"
+          },
+          "url": "https://www.newsweek.com/fact-check-has-ukraine-taken-half-territory-back-since-russia-invaded-1757804",
+          "title": "Fact Check: Has Ukraine Taken Half of Territory Back Since Russia ...",
+          "reviewDate": "2022-11-08T14:13:08Z",
+          "textualRating": "Needs Context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Sean Penn's pre-war Ukraine visit is evidence of propaganda",
+      "claimant": "Social media users",
+      "claimDate": "2022-03-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2022/03/11/fact-check-russia-ukraine-conflict-predates-sean-penns-documentary/6988714001/",
+          "title": "Fact check: Russia-Ukraine conflict predates Sean Penn's ...",
+          "reviewDate": "2022-03-11T20:27:20Z",
+          "textualRating": "Missing Context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Russia lost more men in Ukraine than U.S. in recent wars",
+      "claimant": "Social media users",
+      "claimDate": "2022-10-21T08:13:04Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsweek",
+            "site": "newsweek.com"
+          },
+          "url": "https://www.newsweek.com/russia-ukraine-putin-troops-dead-us-wars-60-years-1753530",
+          "title": "Fact Check: Has Russia lost more men in Ukraine than U.S. in ...",
+          "reviewDate": "2022-10-21T08:13:04Z",
+          "textualRating": "Unverified",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Photo shows child whose parents died in the war in Ukraine",
+      "claimant": "Social media",
+      "claimDate": "2022-03-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2022/03/18/fact-check-image-toddler-2015-video-not-ukraine-war/7061215001/",
+          "title": "Fact check: Image of toddler amid rubble is from 2015 music video ...",
+          "reviewDate": "2022-03-18T21:39:57Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "US aid to Ukraine is double expenditure for Afghanistan War",
+      "claimant": "Social media",
+      "claimDate": "2023-01-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2023/02/08/fact-check-post-distorts-us-expenditures-ukraine-afghanistan/11149759002/",
+          "title": "Fact check: Post distorts US expenditures in Ukraine, Afghanistan",
+          "reviewDate": "2023-02-08T21:13:32Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Photos of an apartment building in Kyiv are evidence the war in Ukraine “is fake.”",
+      "claimant": "Viral image",
+      "claimDate": "2023-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/factchecks/2023/feb/27/viral-image/the-war-in-ukraine-isnt-fake-and-these-photos-dont/",
+          "title": "The war in Ukraine isn’t ‘fake,’ and these photos don’t prove that it is",
+          "textualRating": "Pants on Fire",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A video shows war between Russia and Ukraine",
+      "claimant": "Social media users",
+      "claimDate": "2022-02-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2022/02/21/fact-check-arma-3-not-russia-ukraine-conflict-shown-viral-video/6879521001/",
+          "title": "Fact check: 'Arma 3,' not Russia/Ukraine conflict, shown in viral video",
+          "reviewDate": "2022-02-22T04:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A video shows soldiers destroying a Russian tank",
+      "claimant": "Social media",
+      "claimDate": "2022-03-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2022/03/28/fact-check-footage-shows-video-game-not-ambush-russian-tank/7065230001/",
+          "title": "Fact check: Footage shows a video game, not ambush of a Russian ...",
+          "reviewDate": "2022-03-28T21:30:51Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video of a 'dead body' in Ukraine smoking a cigarette.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-03-22T11:52:52Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/bts-clip-of-music-video-shared-as-ukrainians-faking-death-fact-check",
+          "title": "Russia-Ukraine War: Clip of Music Video Shared To Push 'Fake War ...",
+          "reviewDate": "2022-03-22T11:52:52Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Picture of a child injured in the attacks on Ukraine",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/some-old-emotional-visuals-are-being-linked-to-the-current-russia-ukraine-crisis/",
+          "title": "Some old visuals are being linked to the current Russia-Ukraine crisis",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Recent heartbreaking video of Ukrainian soldiers",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/some-old-emotional-visuals-are-being-linked-to-the-current-russia-ukraine-crisis/",
+          "title": "Some old visuals are being linked to the current Russia-Ukraine crisis",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Picture of the day: A man draped in the Ukrainian flag embraces a woman wearing the Russian flag",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/some-old-emotional-visuals-are-being-linked-to-the-current-russia-ukraine-crisis/",
+          "title": "Some old visuals are being linked to the current Russia-Ukraine crisis",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "https://www.facebook.com/parmeshorkobachan/photos/a.1874238336169393/4837433793183151/",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/some-old-emotional-visuals-are-being-linked-to-the-current-russia-ukraine-crisis/",
+          "title": "Some old visuals are being linked to the current Russia-Ukraine crisis",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "In early March 2022, the United Nations banned its staff from using the word “war” in reference to Russia's invasion of Ukraine.",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Snopes",
+            "site": "snopes.com"
+          },
+          "url": "https://www.snopes.com/fact-check/un-ban-word-war-russia-ukraine/",
+          "title": "Did UN Ban the Word 'War' Regarding Russia's Invasion of Ukraine?",
+          "reviewDate": "2022-03-08T00:47:00Z",
+          "textualRating": "Mixture",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The war in Ukraine is “scripted and staged.”",
+      "claimant": "Facebook",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/factchecks/2022/mar/04/facebook-posts/evidence-russias-war-ukraine-plentiful-and-proves-/",
+          "title": "Evidence of Russia’s war in Ukraine is plentiful and proves it is not ...",
+          "textualRating": "Pants on Fire",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Photographs show the condition of Ukraine amid recent invasion by Russia.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-03-09T15:47:32Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/2014-images-from-ukraine-shared-amid-recent-russian-invasion",
+          "title": "Old Images From Ukraine Revived Amid Ongoing War With Russia",
+          "reviewDate": "2022-03-09T15:47:32Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "“If the way is opened for NATO, it will recognize no limits. If it hadn’t been stopped in #Ukraine, it would have later started a similar war in #Crimea.”",
+      "claimant": "Ayatollah Ali Khamenei",
+      "claimDate": "2022-07-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/fact-check-iran-concocts-nato-war-fantasy-to-justify-russias-ukraine-invasion/6743430.html",
+          "title": "Iran Concocts NATO War Fantasy To Justify Russia's Ukraine Invasion",
+          "reviewDate": "2022-07-22T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows an emotional soldier recording a video during the Ukraine-Russia war.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-03-10T10:27:25Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/dialing-film-emotional-soldier-in-russia-ukraine-war-fact-check",
+          "title": "Video From Short Film Passed Off As Emotional Soldier in Russia ...",
+          "reviewDate": "2022-03-10T10:27:25Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A video shows American soldiers parachuting into Ukraine",
+      "claimant": "Social media",
+      "claimDate": "2022-03-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "USA Today",
+            "site": "usatoday.com"
+          },
+          "url": "https://www.usatoday.com/story/news/factcheck/2022/03/23/fact-check-video-shows-us-troops-training-nc-not-ukraine/7120912001/",
+          "title": "Fact check: Video shows US troops training in NC, not in Ukraine",
+          "reviewDate": "2022-03-23T19:42:06Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Recent photo of two Ukrainian children sending off soldiers to fight the Russians",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/old-and-unrelated-visuals-of-different-children-are-being-linked-to-the-russia-ukraine-crisis-2022/",
+          "title": "Old and unrelated visuals of different children are being linked to the ...",
+          "reviewDate": "2022-02-28T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video of a Ukrainian girl standing up to a Russian soldier",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/old-and-unrelated-visuals-of-different-children-are-being-linked-to-the-russia-ukraine-crisis-2022/",
+          "title": "Old and unrelated visuals of different children are being linked to the ...",
+          "reviewDate": "2022-02-28T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Photo of a girl crying beside a dead body from the recent Russia-Ukraine conflict",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/old-and-unrelated-visuals-of-different-children-are-being-linked-to-the-russia-ukraine-crisis-2022/",
+          "title": "Old and unrelated visuals of different children are being linked to the ...",
+          "reviewDate": "2022-02-28T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video of Russian soldiers saving a small child during the battle between the forces of Russia and Ukraine",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/old-and-unrelated-visuals-of-different-children-are-being-linked-to-the-russia-ukraine-crisis-2022/",
+          "title": "Old and unrelated visuals of different children are being linked to the ...",
+          "reviewDate": "2022-02-28T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Visuals showing the Russia-Ukraine conflict",
+      "claimant": "@Boss_Shamy",
+      "claimDate": "2016-06-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Alt News",
+            "site": "altnews.in"
+          },
+          "url": "https://www.altnews.in/video-made-using-cgi-shared-as-russia-ukraine-conflict/",
+          "title": "Video made using CGI shared as 'Russia-Ukraine conflict'",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Territorial disputes are not the root cause of Russia’s attack on Ukraine.",
+      "claimDate": "2022-02-28T14:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Rappler",
+            "site": "rappler.com"
+          },
+          "url": "https://www.rappler.com/newsbreak/fact-check/territorial-disputes-not-root-cause-russia-attack-ukraine/",
+          "title": "MISSING CONTEXT: Territorial disputes not the root cause of ...",
+          "reviewDate": "2022-02-28T14:00:00Z",
+          "textualRating": "Missing Context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows live footage of war between Ukraine and Russia.",
+      "claimant": "Facebook",
+      "claimDate": "2022-02-23T09:46:19Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/video-game-footage-from-arma-3-shared-amid-russia-ukraine-crisis",
+          "title": "Fact-Check | Video Game ARMA 3 Footage Shared as Russia ...",
+          "reviewDate": "2022-02-23T09:46:19Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The video compilation shows Ukraine-Russia war visuals.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-03-17T09:17:55Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/russia-ukraine-war-visuals-fact-check",
+          "title": "Fact-Check | This Video Compilation Doesn't Show Ukraine-Russia ...",
+          "reviewDate": "2022-03-17T09:17:55Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No Warzone'?",
+      "claimant": "Twitter users",
+      "claimDate": "2022-06-16T12:12:24Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsweek",
+            "site": "newsweek.com"
+          },
+          "url": "https://www.newsweek.com/fact-check-do-photos-busy-ukraine-beaches-prove-theres-no-warzone-1716164",
+          "title": "Fact Check: Do Photos of Busy Ukraine Beaches Prove There's 'No ...",
+          "reviewDate": "2022-06-16T12:12:24Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Footage of air raid by Russian forces on Ukraine",
+      "claimant": "Viral social media post",
+      "claimDate": "2022-03-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/fact-check/news/war-between-russia-ukraine/",
+          "title": "Viral Video Showing War Between Russia-Ukraine Is CGI Animation",
+          "reviewDate": "2022-02-24T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Ongoing Russia – Ukraine conflict visuals",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/old-and-unrelated-war-visuals-are-passed-off-as-russia-ukraine-conflict-visuals/",
+          "title": "Old and unrelated war visuals are passed off as Russia – Ukraine ...",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Real footage of slain soldiers on both sides - Russia and Ukraine",
+      "claimant": "Social media",
+      "claimDate": "2016-06-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Alt News",
+            "site": "altnews.in"
+          },
+          "url": "https://www.altnews.in/video-from-2014-shared-as-slain-soldiers-in-the-russia-ukraine-conflict/",
+          "title": "Video from 2014 shared as slain soldiers in the Russia-Ukraine ...",
+          "reviewDate": "2022-02-26T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "“Independent journalists from many countries were fired for truthfully covering the conflict between Russia and Ukraine.”",
+      "claimant": "Global Information",
+      "claimDate": "2022-05-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/fact-check-china-trumpets-sham-russian-claims-about-war-coverage/6743377.html",
+          "title": "China Trumpets Sham Russian Claims About War Coverage",
+          "reviewDate": "2022-05-20T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The calculations show a similar pattern in the dates on which the two World Wars and the Russia-Ukraine war began",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-03-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/the-date-of-the-first-world-war-taken-in-this-post-is-not-correct-also-one-calculation-is-tweaked/",
+          "title": "A calculation is tweaked to show a pattern in the dates of two World ...",
+          "reviewDate": "2022-03-03T00:00:00Z",
+          "textualRating": "FALSE",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A photo of a wounded young child was captured in Ukraine in 2022.",
+      "claimant": "Facebook posts",
+      "claimDate": "2022-02-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/factchecks/2022/mar/01/facebook-posts/photo-injured-child-syria-2018-not-russia-ukraine-/",
+          "title": "Photo of injured child is from Syria in 2018, not Russia-Ukraine conflict",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows soldiers rescuing a child amid the ongoing Russia-Ukraine crisis.",
+      "claimant": "Facebook",
+      "claimDate": "2022-03-03T13:00:19Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/not-a-video-of-soldiers-from-russia-ukraine-crisis-fact-check",
+          "title": "Fact-Check | No, That's Not a Video of a Child Being Rescued in the ...",
+          "reviewDate": "2022-03-03T13:00:19Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A video shows air missile strikes and fighter jet attacks in the Russia-Ukraine conflict.",
+      "claimDate": "2022-02-27T13:48:37Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Rappler",
+            "site": "rappler.com"
+          },
+          "url": "https://www.rappler.com/newsbreak/fact-check/video-air-missile-fighter-jet-attacks-russia-ukraine-conflict/",
+          "title": "FALSE: Video of air missile and fighter jet attacks in Russia-Ukraine ...",
+          "reviewDate": "2022-02-27T13:48:37Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Modi called up Putin and Zelensky to halt Ukraine war for evacuating Indian students",
+      "claimant": "Amit shah, JP Nadda, BJP",
+      "claimDate": "2016-06-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Alt News",
+            "site": "altnews.in"
+          },
+          "url": "https://www.altnews.in/j-p-nadda-falsely-claim-russia-stopped-war-at-pm-modis-phone-call/",
+          "title": "Did Modi halt Ukraine war for evacuating Indians? BJP leaders ...",
+          "reviewDate": "2022-11-15T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Photo of Natasha Perokov, the Ukraine’s first female fighter pilot who died during the war with Russia",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-05-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/unrelated-visuals-shared-as-ukraines-first-female-pilot-killed-during-the-ongoing-russia-ukraine-conflict/",
+          "title": "Unrelated photos shared as that of Ukraine’s first female pilot killed ...",
+          "reviewDate": "2022-05-12T00:00:00Z",
+          "textualRating": "FALSE",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Putin has warned India against interfering in Ukraine conflict.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-02-28T07:26:52Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/putin-india-interfere-ukraine-consequences-fact-check",
+          "title": "No, Putin Didn't 'Warn India' Against Interfering in Ukraine Conflict",
+          "reviewDate": "2022-02-28T07:26:52Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows Russian fighter jet being shot down by Ukraine forces",
+      "claimant": "Viral social media post",
+      "claimDate": "2022-02-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/fact-check/news/video-of-libyan-rebels-shooting-down-plane-from-2011-shared-in-context-of-russia-ukraine-conflict/",
+          "title": "Video Of Libyan Rebels Shooting Down Plane From 2011 Shared In ...",
+          "reviewDate": "2022-02-24T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Russia-Ukraine conflict मध्ये ISKCON द्वारे मदतकार्य केले जात असल्याच्या दाव्याने फोटो",
+      "claimant": "Social Media User",
+      "claimDate": "2022-03-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/mr/fact-check-mr/russia-ukraine-conflic-iskcon/",
+          "title": "Russia-Ukraine conflict मध्ये ISKCON द्वारे मदतकार्याच्या नावाने ...",
+          "reviewDate": "2022-03-01T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "mr"
+        }
+      ]
+    },
+    {
+      "text": "“Opportunities to peacefully restore the territorial integrity of [Ukraine] through direct dialogue with Donetsk and Luhansk are still ignored.”",
+      "claimant": "Vladimir Putin",
+      "claimDate": "2022-02-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/fact-check-putin-false-ukraine/6743280.html",
+          "title": "A False Claim From Putin About the Ukraine War",
+          "reviewDate": "2022-02-16T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows real footage from Russia-Ukraine conflict.",
+      "claimant": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1199971607198297",
+      "claimDate": "2022-02-24T15:16:24Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BOOM FactCheck",
+            "site": "boomlive.in"
+          },
+          "url": "https://www.boomlive.in/fact-check/ukraine-russia-arma-3-invasion-video-game-conflict-mathrubhumi-16908",
+          "title": "Mathrubhumi Shares Clip From Video Game ARMA 3 As Russia ...",
+          "reviewDate": "2022-02-24T15:16:24Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Viral image shows two children 'paying their respect' to Ukrainian troops amid the ongoing Russia Ukraine troops.",
+      "claimant": "Viral Social Media Post",
+      "claimDate": "2022-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/fact-check/old-image-children-paying-respect-to-ukrainian-troops/",
+          "title": "Old Image Of Children Paying Respect To Ukrainian Troops Goes ...",
+          "reviewDate": "2022-02-28T00:00:00Z",
+          "textualRating": "False Context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Russia-Ukraine Conflict के बीच यूक्रेनियन झंडे में लिपटे युवक ने रूसी झंडे में लिपटी युवती को गले लगाया",
+      "claimant": "Congress MP Shashi Tharoor",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/hi/fact-check-hi/russia-ukraine-conflict-2019-image/",
+          "title": "Russia-Ukraine Conflict के बीच यूक्रेनियन झंडे में लिपटे युवक द्वारा रूसी ...",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "False Context",
+          "languageCode": "hi"
+        }
+      ]
+    },
+    {
+      "text": "Photograph shows people in Ukraine praying amid increased tensions with Russia.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-02-24T07:57:44Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/people-praying-ukraine-safety-russia-invasion-fact-check",
+          "title": "Old Photograph of People Praying Shared Amid Ukraine-Russia Crisis",
+          "reviewDate": "2022-02-24T07:57:44Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "लहान मुलीचा जीव वाचवणाऱ्या जवानाच्या धाडसाचा व्हिडिओ Russia-Ukraine Conflict दरम्यानचा आहे.",
+      "claimant": "Social Media User",
+      "claimDate": "2022-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/mr/fact-check-mr/video-of-aid-worker-rescuing-girl-is-from-iraq-not-ukraine/",
+          "title": "लहान मुलीचा जीव वाचवणाऱ्या जवानाच्या धाडसाचा व्हिडिओ Russia ...",
+          "reviewDate": "2022-03-02T00:00:00Z",
+          "textualRating": "False context",
+          "languageCode": "mr"
+        }
+      ]
+    },
+    {
+      "text": "Ukrainians kneel down on snow and pray under the sky of the Merciful God, in order to avoid the world a new war in which streams of innocent blood. The leaders of the Ukrainian churches have dedicated the day of tomorrow Sunday to pray, fasting and repentance for peace. Let's join our voices to theirs, and form a human and spiritual strength in the face of weapons, destruction and bloodshed.",
+      "claimant": "Pierre Imad",
+      "claimDate": "2022-02-25T13:58:13Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "site": "vishvasnews.com"
+          },
+          "url": "https://www.vishvasnews.com/english/world/fact-check-old-image-of-ukraine-viral-with-misleading-claim-after-russia-ukraine-conflict/",
+          "title": "Fact check: Old image of Ukraine viral with misleading claim amidst ...",
+          "reviewDate": "2022-02-25T13:58:13Z",
+          "textualRating": "Half true",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We can only - for a hundredth time - repeat that Russia is in no shape or form a party of the conflict\" in Ukraine.",
+      "claimant": "Dmitry Peskov",
+      "claimDate": "2017-03-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/russia-ukraine-military-presence-kremlin/6741542.html",
+          "title": "Is Russia Not 'A Party' in Ukraine Conflict, as Kremlin Claims?",
+          "reviewDate": "2017-03-01T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Putin warns India against interfering in Russia-Ukraine war",
+      "claimant": "Viral social media post",
+      "claimDate": "2022-02-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/fact-check/putin-does-not-warns-india-on-ukraine-russia-situation/",
+          "title": "Photo Claiming Putin warns India against interfering in the Russia ...",
+          "reviewDate": "2022-03-01T00:00:00Z",
+          "textualRating": "Altered media",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "CNN reported that Russia's invasion of Ukraine is causing myocarditis",
+      "claimant": "Multiple sources",
+      "claimDate": "2022-03-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Fact Check",
+            "site": "factcheck.afp.com"
+          },
+          "url": "https://factcheck.afp.com/doc.afp.com.32773FA",
+          "reviewDate": "2022-03-29T18:34:00Z",
+          "textualRating": "Altered photo",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "यूक्रेन से अपने नागरिकों को सुरक्षित निकालने के लिए पाकिस्तान की नेशनल असेंबली में ‘मोदी-मोदी’ के नारे लगे",
+      "claimant": "Social Media Users",
+      "claimDate": "2022-03-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/hi/fact-check-hi/russia-ukraine-conflict-pakistan/",
+          "title": "क्या Russia-Ukraine conflict के बीच पाकिस्तान की नेशनल असेंबली में ...",
+          "reviewDate": "2022-03-07T00:00:00Z",
+          "textualRating": "Partly False",
+          "languageCode": "hi"
+        }
+      ]
+    },
+    {
+      "text": "Fact Check: Did Biden Admit Ukraine Will Have to Cede Territory to Russia?",
+      "claimant": "Jimmy Dore",
+      "claimDate": "2022-06-10T14:15:01Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsweek",
+            "site": "newsweek.com"
+          },
+          "url": "https://www.newsweek.com/fact-check-did-biden-admit-ukraine-will-have-cede-territory-russia-1714633",
+          "title": "Fact Check: Did Biden Admit Ukraine Will Have to Cede Territory to ...",
+          "reviewDate": "2022-06-10T14:15:01Z",
+          "textualRating": "Mostly false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Sikhs offering Langar in Ukraine amidst the ongoing Russia-Ukraine conflict",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/old-image-from-canada-is-shared-as-sikhs-offering-langar-in-ukraine-amidst-the-ongoing-russia-ukraine-conflict/",
+          "title": "Old image from Canada is shared as Sikhs offering Langar in ...",
+          "reviewDate": "2022-02-27T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Explosion in Ukraine led by Russia",
+      "claimant": "Social media",
+      "claimDate": "2016-06-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Alt News",
+            "site": "altnews.in"
+          },
+          "url": "https://www.altnews.in/2021-israeli-air-strikes-on-gaza-strip-shared-as-russias-attack-on-ukraine/",
+          "title": "Photo of Israeli airstrike in Gaza Strip shared as 'Russia-Ukraine ...",
+          "reviewDate": "2022-02-25T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows leaked footage of Russia Ukraine war.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-03-12T12:26:52Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/leaked-footage-russia-ukraine-war-afghanistan-kandahar-fact-check",
+          "title": "Fact-Check | Video from 2011 Shared As 'Leaked Footage' of Russia ...",
+          "reviewDate": "2022-03-12T12:26:52Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Images show Ukraine's President Volodymyr Zelenskyy joining troops amid Russia-Ukraine conflict.",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-02-26T13:24:45Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/old-images-ukraine-president-volodymyr-zelenskyy-amid-russia-attack-fact-check",
+          "title": "Old Images of Ukraine President Zelenskyy Viral Amid Russian Attack",
+          "reviewDate": "2022-02-26T13:24:45Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows an aerial conflict between Russia and Ukraine",
+      "claimant": "User of social media",
+      "claimDate": "2022-02-22T13:51:40Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BOOM FactCheck",
+            "site": "boomlive.in"
+          },
+          "url": "https://www.boomlive.in/fact-check/politics/arma-3-video-game-footage-shared-as-russia-ukraine-aerial-conflict-16874",
+          "title": "ARMA 3 Video Game Footage Shared As Russia-Ukraine Aerial ...",
+          "reviewDate": "2022-02-22T13:51:40Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Says Joe Biden risks war with Russia because Vladimir Putin doesn’t “believe in transgender rights.\"",
+      "claimant": "JD Vance",
+      "claimDate": "2022-02-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/factchecks/2022/feb/21/jd-vance/jd-vance-says-transgender-rights-drives-looming-co/",
+          "title": "J.D. Vance says transgender rights drives looming conflict in Ukraine",
+          "textualRating": "Pants on Fire",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A post shared on Facebook claims that there is \"absolutely zero\" footage of the Russian-Ukrainian conflict.",
+      "claimant": "Viral Post",
+      "claimDate": "2023-01-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Check Your Fact",
+            "site": "checkyourfact.com"
+          },
+          "url": "http://checkyourfact.com/2023/02/01/fact-check-zero-footage-ukrainian-conflict/",
+          "title": "FACT CHECK: Is There 'Absolutely Zero Footage' Of The Russian ...",
+          "reviewDate": "2023-02-01T16:23:14Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Image shows the Sikh community feeding people in Ukraine",
+      "claimant": "Facebook,Twitter",
+      "claimDate": "2022-03-01T09:24:37Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Quint",
+            "site": "thequint.com"
+          },
+          "url": "https://www.thequint.com/news/webqoof/old-image-shared-as-sikh-community-serving-people-in-ukraine-amid-the-conflict-fact-check",
+          "title": "Old Image Shared as Sikh Community Serving People in Ukraine ...",
+          "reviewDate": "2022-03-01T09:24:37Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "“Russian muftis expressed support for the special operation in Ukraine and called it a forced preventive defensive measure, ‘based on the Holy Quran’.”",
+      "claimant": "RIA Novosti",
+      "claimDate": "2022-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/fact-check-russian-islamic-scholars-falsely-call-ukraine-war-defensive-/6743318.html",
+          "title": "Russian Islamic Clergy Falsely Call Russia's War on Ukraine ...",
+          "reviewDate": "2022-03-17T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Recent painful photos from Ukraine",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/these-painful-visuals-do-not-show-the-consequences-of-the-current-russia-ukraine-crisis/",
+          "title": "These ‘painful’ visuals do not show the consequences of the current ...",
+          "reviewDate": "2022-03-01T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Recent photo of Ukraine after the Russian attack",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimDate": "2022-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/these-painful-visuals-do-not-show-the-consequences-of-the-current-russia-ukraine-crisis/",
+          "title": "These ‘painful’ visuals do not show the consequences of the current ...",
+          "reviewDate": "2022-03-01T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Recent pictures of the Russia-Ukraine war",
+      "claimant": "SOCIAL MEDIA POST",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "FACTLY",
+            "site": "factly.in"
+          },
+          "url": "https://factly.in/these-painful-visuals-do-not-show-the-consequences-of-the-current-russia-ukraine-crisis/",
+          "title": "These ‘painful’ visuals do not show the consequences of the current ...",
+          "reviewDate": "2022-03-01T00:00:00Z",
+          "textualRating": "MISLEADING",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video of Russian helicopter being shot down",
+      "claimant": "Social Media",
+      "claimDate": "2022-06-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsmobile",
+            "site": "newsmobile.in"
+          },
+          "url": "https://newsmobile.in/articles/2022/06/06/fact-check-video-game-clip-falsely-linked-to-russia-ukraine-conflict/",
+          "title": "Fact Check: Video Game Clip Falsely Linked to Russia-Ukraine ...",
+          "reviewDate": "2022-06-06T00:00:00Z",
+          "textualRating": "The video is screengrab of a video game",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Right now on west side of Kyiv. Under relentless airstrikes. #Russia #Ukraine",
+      "claimant": "Facebook pages and Twitter handles",
+      "claimDate": "2022-02-25T08:54:26Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "site": "boomlive.in"
+          },
+          "url": "https://www.boomlive.in/fact-check/russia-attacks-ukraine-kiev-kyiv-under-attck-viral-video-fact-check-fake-news-16919",
+          "title": "Russia-Ukraine Crisis: Animated Clip Shared As Russian Airstrike ...",
+          "reviewDate": "2022-02-25T08:54:26Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It’s certainly hard to imagine someone spreading fake news about the death of a child.\"",
+      "claimant": "Dmitry Peskov",
+      "claimDate": "2021-04-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/6742895.html",
+          "title": "Fake News About Ukraine Conflict? 'Hard to Imagine,' Kremlin Says",
+          "reviewDate": "2021-04-08T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Photo shows child wounded in Russia invasion of Ukraine",
+      "claimant": "Multiple people",
+      "claimDate": "2022-02-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Fact Check",
+            "site": "factcheck.afp.com"
+          },
+          "url": "https://factcheck.afp.com/doc.afp.com.323X8VQ",
+          "reviewDate": "2022-02-25T21:52:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"All these statements can contribute to the destabilization of the situation … [by] the Ukrainian leadership, who on the sly, if you will, can decide to start a new civil war in their country and try to solve the problem of the southeast.”",
+      "claimant": "Dmitry Peskov",
+      "claimDate": "2022-01-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "POLYGRAPH.info",
+            "site": "polygraph.info"
+          },
+          "url": "https://www.polygraph.info/a/polygraph-fact-check-kremlin-floats-phony-civil-war-in-ukraine-narrative/6743251.html",
+          "title": "Kremlin Floats Phony 'Civil War in Ukraine' Narrative",
+          "reviewDate": "2022-01-21T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows the Ukrainian air defense system in action against Russia",
+      "claimant": "Facebook post",
+      "claimDate": "2022-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "VERA Files",
+            "site": "verafiles.org"
+          },
+          "url": "https://verafiles.org/articles/vera-files-fact-check-stream-shows-arma-3-video-game-not-rus",
+          "title": "VERA FILES FACT CHECK: Stream shows Arma 3 video game NOT ...",
+          "reviewDate": "2022-03-03T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Photo shows a heart-breaking scene from Ukraine in 2022.",
+      "claimant": "Social Media Users",
+      "claimDate": "2022-03-13T12:52:10Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "site": "boomlive.in"
+          },
+          "url": "https://www.boomlive.in/fact-check/world/viral-photo-old-man-cat-fire-ukraine-russia-conflict-fact-check-fake-news-17139",
+          "title": "2018 Photo From Turkey Falsely Shared As Tragic Scene From ...",
+          "reviewDate": "2022-03-13T12:52:10Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows Pak MPs praising Modi after Pakistani students used the Indian flag to escape from Ukraine.",
+      "claimant": "Social Media Users",
+      "claimDate": "2022-03-07T14:36:45Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "site": "boomlive.in"
+          },
+          "url": "https://www.boomlive.in/fact-check/world/viral-video-pakistan-mp-pro-modi-slogan-student-indian-flag-escape-ukraine-old-video-social-media-17058",
+          "title": "Russia-Ukraine Conflict: No, Pakistani MPs Did Not Raise Pro-Modi ...",
+          "reviewDate": "2022-03-07T14:36:45Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Footage of war casualties in Ukraine",
+      "claimant": "Viral social media post",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newschecker",
+            "site": "newschecker.in"
+          },
+          "url": "https://newschecker.in/fact-check/old-video-shared-as-footage-of-war-casualties-in-ukraine/",
+          "title": "Old Video Shared As Footage Of War Casualties in Ukraine",
+          "reviewDate": "2022-02-26T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Video shows recent Russia-Ukraine conflict",
+      "claimant": "Social Media",
+      "claimDate": "2022-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsmobile",
+            "site": "newsmobile.in"
+          },
+          "url": "https://newsmobile.in/articles/2022/02/27/fact-check-old-video-falsely-linked-to-recent-russia-ukraine-conflict/",
+          "title": "Fact Check: Old Video Falsely Linked To Recent Russia-Ukraine ...",
+          "reviewDate": "2022-02-27T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Recent Video of Russia-Ukraine Conflict",
+      "claimant": "Social media",
+      "claimDate": "2022-02-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Newsmobile",
+            "site": "newsmobile.in"
+          },
+          "url": "https://newsmobile.in/articles/2022/02/24/fact-check-2020-video-of-air-show-in-russia-falsely-linked-to-recent-russia-ukraine-conflict/",
+          "title": "Fact Check: 2020 Video Of Air Show In Russia Falsely Linked To ...",
+          "reviewDate": "2022-02-24T00:00:00Z",
+          "textualRating": "Misleading: Old video",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}
