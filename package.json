@@ -1,0 +1,24 @@
+{
+  "name": "fyp-data-scraper",
+  "version": "1.0.0",
+  "description": "This Repo comprise a Python web scraper designed to fetch fake checked claims from the fact-checking organization politifact.org.",
+  "main": "merge.js",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karun842002/fyp-data-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karun842002/fyp-data-scraper/issues"
+  },
+  "homepage": "https://github.com/Karun842002/fyp-data-scraper#readme"
+}
