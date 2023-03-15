@@ -5,12 +5,12 @@ from nltk.parse import stanford
 import SBAR
 from nltk.parse.stanford import StanfordParser as sp
 import re
+import os
 from anytree import AnyNode
 
 # os.environ['CLASSPATH']="F:\\Anaconda3\\NLP\\stanford-parser-full-2018-02-27;C:\\Users\\Lokesh\\AppData\\Roaming\\nltk_data\\taggers\\averaged_perceptron_tagger;F:\\Anaconda3\\NLP\\stanford-ner-2015-12-09"
 # For nltk tagger
 
-parser1 = stanford.StanfordParser()
 parser = sp()
 
 split = []
@@ -246,6 +246,7 @@ def simplify(sent):
     initial = [sent]
     final = []
 
+    # Recursively remove the conjunctions
     while split_needed(initial):
         final = []
         while initial:
