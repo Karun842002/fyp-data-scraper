@@ -102,6 +102,6 @@ class Model:
         p2 = self.m2(torch.tensor(np.array(X_ss)))
         p2 = (p2 > 0.5).to('cpu').int().squeeze().numpy().tolist()
         svmx = [X_claim[0].detach().cpu().numpy().tolist() + [p1, p2], ]
-        p = np.array(self.clf.decision_function(svmx)) 
-        prob = np.exp(p[0]) * 100
+        p = np.array(self.clf.predict_proba(svmx)) 
+        prob = p[0][1] * 100
         return prob
