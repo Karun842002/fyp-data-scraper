@@ -1,7 +1,5 @@
-import random
 from flask import (Flask, request, render_template)
-# from simplifier_new import serverParser
-
+from model import Model
 
 app = Flask("app", static_folder="build/static", template_folder="build")
 PORT = 5000
@@ -15,9 +13,9 @@ def root():
 @app.route("/predict", methods=["GET"])
 def index():
     if request.method == "GET":
-        sentence = request.args["sentence"]
-        # simpleSentence = serverParser(sentence)
-        return {"confidence": random.randrange(0,100,1)}, 200
+        model = Model(app.static_folder)
+        res = model.predict(request.args['sentence'])
+        return {"confidence": res}, 200
     
 if __name__ == "__main__":
     app.run(threaded=True, host=HOST, port=PORT, debug=DEBUG)

@@ -1,4 +1,5 @@
 project
 node_modules
 env
+uenv
 project-environment
