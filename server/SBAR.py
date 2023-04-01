@@ -1,6 +1,5 @@
 def simplify(sent):
     from anytree import NodeMixin, Node, AnyNode, RenderTree
-    from nltk.parse.stanford import StanfordParser
 
     def make_tree(tree, t, sent_list):
         # this fn. converts nltk tree to anytree
@@ -11,7 +10,8 @@ def simplify(sent):
         else:
             AnyNode(id=str(tree), parent=t)
 
-    parser = StanfordParser()
+    parser = CoreNLPParser(url='http://localhost:9000/')
+    from nltk.parse import CoreNLPParser
 
     def find_sbar(t):
         if t.id == 'SBAR':
