@@ -16,7 +16,7 @@ def root():
 def index():
     if request.method == "GET":
         sentence = request.args["sentence"]
-        simpleSentence = serverParser(sentence)
+        # simpleSentence = serverParser(sentence)
         return {"confidence": random.randrange(0,100,1)}, 200
     
 if __name__ == "__main__":
