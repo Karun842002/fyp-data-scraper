@@ -1,6 +1,6 @@
 import random
 from flask import (Flask, request, render_template)
-from simplifier_new import serverParser
+# from simplifier_new import serverParser
 
 
 app = Flask("app", static_folder="build/static", template_folder="build")
