@@ -1,7 +1,6 @@
 import nltk
 import tqdm
 from nltk.tree import ParentedTree
-from nltk.parse import stanford
 import SBAR
 from nltk.parse import CoreNLPParser
 import re
@@ -11,7 +10,7 @@ from anytree import AnyNode
 # os.environ['CLASSPATH']="F:\\Anaconda3\\NLP\\stanford-parser-full-2018-02-27;C:\\Users\\Lokesh\\AppData\\Roaming\\nltk_data\\taggers\\averaged_perceptron_tagger;F:\\Anaconda3\\NLP\\stanford-ner-2015-12-09"
 # For nltk tagger
 
-parser = CoreNLPParser(url='http://localhost:9000')
+parser = CoreNLPParser(url='http://localhost:9000/')
 
 split = []
 simple_sent = []
@@ -119,9 +118,8 @@ def split_needed(sent_list):
 
 
 def split(sent, cc_tuple):
-    parser = stanford.StanfordParser()
     pos_tagged = pos_tag(tokenize(sent))
-    tree = next(parser.tagged_parse(pos_tagged))
+    tree = next(parser.parse(tokenize(sent)))
     tree1 = ParentedTree.convert(tree)
 
     count = 0
@@ -161,7 +159,7 @@ def split(sent, cc_tuple):
         pos_tagged.insert(index1, (' ,', r","))  # ', 'is used
         pos_tagged.insert(index1 + 2, (', ', r","))  # ' ,' is used
 
-    tree = next(parser.tagged_parse(pos_tagged))
+    tree = next(parser.parse(tokenized_sent))
     p_tree = ParentedTree.convert(tree)
 
     leaf_values = p_tree.leaves()
@@ -266,6 +264,7 @@ def simplify(sent):
 
 
 def tokenize(sent):
+    sent = str(sent)
     tokenized_sent = nltk.word_tokenize(sent)
     if 'If' in tokenized_sent and 'then' in tokenized_sent:
         tokenized_sent.remove('If')
@@ -307,7 +306,7 @@ def serverParser(sentence):
     tokenized_sent = tokenize(sentence)
     # print(tokenized_sent)
     pos_tagged = pos_tag(tokenized_sent)
-    parse_trees = parser.parse(sentence)
+    parse_trees = parser.parse(tokenized_sent)
     tree = next(parse_trees)
     p_tree = ParentedTree.convert(tree)
     leaf_values = p_tree.leaves()
@@ -353,7 +352,7 @@ def serverParser(sentence):
             # print("Hello")
             tokenized_sent = tokenize(sent)
             pos_tagged = nltk.pos_tag(tokenized_sent)
-            parse_trees = parser.parse(sent)
+            parse_trees = parser.parse(tokenized_sent)
             sent_list = [s for s in sent.split()]
             tree = next(parse_trees)[0]
             # tree.draw()
