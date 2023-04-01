@@ -10,7 +10,7 @@ from anytree import AnyNode
 # os.environ['CLASSPATH']="F:\\Anaconda3\\NLP\\stanford-parser-full-2018-02-27;C:\\Users\\Lokesh\\AppData\\Roaming\\nltk_data\\taggers\\averaged_perceptron_tagger;F:\\Anaconda3\\NLP\\stanford-ner-2015-12-09"
 # For nltk tagger
 
-parser = CoreNLPParser(url='http://localhost:9000/')
+parser = CoreNLPParser(url='https://cold-grass-8874.fly.dev/')
 
 split = []
 simple_sent = []

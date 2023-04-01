@@ -1,20 +1,14 @@
-# fly.toml file generated for white-surf-3720 on 2023-04-01T21:49:54+05:30
+# fly.toml file generated for cold-grass-8874 on 2023-04-01T23:30:26+05:30
 
-app = "white-surf-3720"
+app = "cold-grass-8874"
 kill_signal = "SIGINT"
 kill_timeout = 5
 mounts = []
 primary_region = "ams"
 processes = []
 
-[build]
-  builder = "paketobuildpacks/builder:full"
-
-[env]
-  PORT = "8080"
-
 [[services]]
-  internal_port = 8080
+  internal_port = 9000
   processes = ["app"]
   protocol = "tcp"
   [services.concurrency]
