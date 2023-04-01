@@ -1,7 +1,8 @@
 from flask import (Flask, request, render_template)
 from model import Model
-
+from flask_cors import CORS
 app = Flask("app", static_folder="build/static", template_folder="build")
+CORS(app)
 model = Model(app.static_folder)
 
 @app.route("/")

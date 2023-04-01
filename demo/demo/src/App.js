@@ -3,15 +3,18 @@ import './App.css';
 import { CountUp } from 'use-count-up'
 import axios from 'axios'
 function App() {
-  const [confidence, setConfidence] = useState([0, 50])
+  const [confidence, setConfidence] = useState(50)
+  const [start, setStart] = useState(0)
   const [input, setInput] = useState('')
 
-  async function predict(event) {
+  function predict(event) {
     event.preventDefault()
     console.log(input)
-    let res = await axios.get(`http://localhost:8000/predict?sentence=${input}`)
-    console.log(res)
-    setConfidence([0, res.data.confidence])
+    axios.get(`/predict?sentence=${input}`).then(res => {
+      console.log(res)
+      setStart(confidence)
+      setConfidence(res.data.confidence)
+    })
   }
 
   return (
@@ -24,7 +27,7 @@ function App() {
               <input type="text" id="input" placeholder="HEADLINE" name="sentence" onChange={event => setInput(event.target.value)} value={input} />
             </div>
             <div className='form-element counter' id="counter">
-              TRUTH: <CountUp isCounting start={confidence[0]} end={confidence[1]} duration={2.5} decimalPlaces={4} updateInterval={0.1} onUpdate={(currentValue) => {
+              TRUTH: <CountUp isCounting start={start} end={confidence} key={confidence} duration={2.5} decimalPlaces={4} updateInterval={0.1} onUpdate={(currentValue) => {
                 document.getElementById("counter").style.color = `rgb(${255*Number(1 - currentValue/100)},${255*Number(currentValue/100)},${128 - 255*Math.abs(Number(0.5 - currentValue/100))})`
               }} />%
             </div>
