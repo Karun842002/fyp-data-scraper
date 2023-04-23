@@ -68,7 +68,7 @@
   height: 60vh;
 }
 
-input {
+textarea {
   font-family: 'Orbitron', sans-serif;
   border: solid rgb(143, 143, 143) 1px;
   border-radius: 5%;

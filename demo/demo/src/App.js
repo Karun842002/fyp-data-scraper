@@ -24,7 +24,7 @@ function App() {
         <div id="form-wrapper">
           <form onSubmit={predict}>
             <div className='form-element input-element'>
-              <input type="text" id="input" placeholder="HEADLINE" name="sentence" onChange={event => setInput(event.target.value)} value={input} />
+              <textarea type="text" id="input" placeholder="HEADLINE" name="sentence" onChange={event => setInput(event.target.value)} value={input} />
             </div>
             <div className='form-element counter' id="counter">
               TRUTH: <CountUp isCounting start={start} end={confidence} key={confidence} duration={2.5} decimalPlaces={4} updateInterval={0.1} onUpdate={(currentValue) => {

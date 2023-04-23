@@ -48,6 +48,10 @@ class Model:
         self.m1.load_state_dict(s1)
         self.m2.load_state_dict(s2)
         self.clf = pickle.load(open(os.path.join(static_folder, 'svm.pkl'), 'rb'))
+        self.activation = dict()
+        self.m1.bilstm2.register_forward_hook(self.get_activation('bilstm2_m1'))
+        self.m2.bilstm2.register_forward_hook(self.get_activation('bilstm2_m2'))
+        
 
     def tokenizeSentence(self, sentence, simple_sentence):
         tokenized_claim = self.tk1.texts_to_sequences([sentence, ])
@@ -102,6 +106,24 @@ class Model:
         p2 = self.m2(torch.tensor(np.array(X_ss)))
         p2 = (p2 > 0.5).to('cpu').int().squeeze().numpy().tolist()
         svmx = [X_claim[0].detach().cpu().numpy().tolist() + [p1, p2], ]
+        p = np.array(self.clf.predict_proba(svmx)) 
+        prob = p[0][1] * 100
+        return prob
+    
+    def get_activation(self, name):
+        def hook(model, input, output):
+            self.activation[name] = output
+        return hook
+    
+    def predictV2(self, sentence):
+        simple_sentence = serverParser(sentence)
+        X_claim, X_ss = self.tokenizeSentence(sentence, simple_sentence)
+        p1 = self.m1(torch.tensor(np.array(X_claim)))
+        p1 = (p1 > 0.5).to('cpu').int().squeeze().numpy().tolist()
+        p2 = self.m2(torch.tensor(np.array(X_ss)))
+        p2 = (p2 > 0.5).to('cpu').int().squeeze().numpy().tolist()
+        weighted_avg = (torch.tensor(0.8) * self.activation['bilstm2_m1'][0][:, -1, :].detach().cpu()) + (torch.tensor(0.2) * self.activation['bilstm2_m2'][0][:, -1, :].detach().cpu())
+        svmx = weighted_avg.numpy().tolist()
         p = np.array(self.clf.predict_proba(svmx)) 
         prob = p[0][1] * 100
         return prob
